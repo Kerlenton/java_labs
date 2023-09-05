@@ -1,14 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cd9ea66-f959-4738-8b39-6351332d5a71" name="Changes" comment="" />
+    <list default="true" id="9cd9ea66-f959-4738-8b39-6351332d5a71" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task1/Author.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task1/TestAuthor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task2/Ball.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task2/TestBall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task3/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task3/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task3/Tester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task4/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task4/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task4/TestShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task5/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task5/DogKennel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task6/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task6/CircleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task7/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task7/BookShelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task7/BookShelfTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task9/Card.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task9/Deck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task9/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task9/Poker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/task2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/task3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/task4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/task4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/task5.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2UwQd3cKvJBTdcv1ADisB7iSIzE" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -16,7 +65,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -40,5 +93,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

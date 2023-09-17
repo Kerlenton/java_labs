@@ -4,19 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cd9ea66-f959-4738-8b39-6351332d5a71" name="Changes" comment="adding lab2">
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/CurrencyConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/OnlineShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Report.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/task2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/task2/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/task2/Tester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/task6.java" afterDir="false" />
+    <list default="true" id="9cd9ea66-f959-4738-8b39-6351332d5a71" name="Changes" comment="adding lab3">
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Clothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/MenClothing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Pants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Size.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Skirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/TShirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/TestClothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Tie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/WomenClothing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/task2/Authentication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/task2/Catalog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/task2/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/task2/Products.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/task2/Purchase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/task2/ShoppingCart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/task5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/task5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task4/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task4/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab3/task6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/task5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +36,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -70,7 +82,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693933428254</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="adding lab3">
+      <created>1694350200962</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1694350200962</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -86,7 +105,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding lab2" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding lab2" />
+    <MESSAGE value="adding lab3" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding lab3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

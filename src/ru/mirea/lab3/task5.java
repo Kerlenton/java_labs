@@ -1,6 +1,6 @@
 package ru.mirea.lab3;
 
-public class task6 {
+public class task5 {
     public static void main(String[] args) {
         // Создаем объекты класса Double с помощью метода valueOf()
         Double number1 = Double.valueOf(3.14);

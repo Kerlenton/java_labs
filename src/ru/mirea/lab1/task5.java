@@ -1,5 +1,6 @@
 package ru.mirea.lab1;
 
+import java.math.BigInteger;
 import java.util.Scanner;
 
 public class task5 {
@@ -8,10 +9,10 @@ public class task5 {
         System.out.print("Введите число: ");
 
         int length = sc.nextInt();
-        int ans = 1;
+        BigInteger ans = BigInteger.valueOf(1);
 
         for (int i = 0; i < length; i++) {
-            ans *= (i + 1);
+            ans = ans.multiply(ans);
         }
 
         System.out.println(ans);

@@ -20,7 +20,7 @@ public class Shop {
 
     public Computer findComputer(Predicate<Computer> criteria) {
         for (Computer computer : computers) {
-            if (0.test(computer)) {
+            if (criteria.test(computer)) {
                 return computer;
             }
         }

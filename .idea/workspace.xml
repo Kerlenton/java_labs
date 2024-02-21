@@ -4,34 +4,93 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cd9ea66-f959-4738-8b39-6351332d5a71" name="Changes" comment="adding lab4">
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/task1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/task1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/task1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/task1/ShapeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/task1/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/task2/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/task2/PhoneTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/task3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/task3/PersonTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/task4/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/task4/MatrixTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/task5/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/task5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/task5/Reader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/task6/Employer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/task6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/task6/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab41/task7/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/FootballMatchGUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/task2/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/task2/RandomShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/task2/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/task2/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/task3/ImageWindow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/task4/AnimationWindow.java" afterDir="false" />
+    <list default="true" id="9cd9ea66-f959-4738-8b39-6351332d5a71" name="Changes" comment="adding lab41 and lab5">
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab1/PinCodePredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task4/Shop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ru/mirea/lab2/task4/Shop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/task2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab1/task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task1/Author.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task1/TestAuthor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task2/Ball.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task2/TestBall.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task3/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task3/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task3/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task4/Computer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task4/Shop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task4/TestShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task5/Dog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task5/DogKennel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task6/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task6/CircleTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task7/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task7/BookShelf.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task7/BookShelfTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task8.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task9/Card.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task9/Deck.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task9/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab2/task9/Poker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab3/CurrencyConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab3/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab3/OnlineShop.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab3/Report.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab3/task1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab3/task2/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab3/task2/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab3/task2/Tester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab3/task3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab3/task4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab3/task5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/Atelier.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/Clothes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/MenClothing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/Pants.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/Season.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/Size.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/Skirt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/TShirt.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/TestClothes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/Tie.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/WomenClothing.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/task2/Authentication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/task2/Catalog.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/task2/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/task2/Products.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/task2/Purchase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab4/task2/ShoppingCart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/task1/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/task1/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/task1/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/task1/ShapeTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/task1/Square.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/task2/Phone.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/task2/PhoneTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/task3/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/task3/PersonTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/task4/Matrix.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/task4/MatrixTester.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/task5/Book.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/task5/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/task5/Reader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/task6/Employer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/task6/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab41/task6/Manager.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab5/FootballMatchGUI.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab5/task2/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab5/task2/RandomShapes.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab5/task2/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab5/task2/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab5/task3/ImageWindow.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ru/mirea/lab5/task4/AnimationWindow.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,9 +100,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Enum" />
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -62,17 +121,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "//wsl$/Ubuntu/home/kerlenton/simple_renderer",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;//wsl$/Ubuntu/home/kerlenton/simple_renderer&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="AnimationWindow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ru.mirea.lab5.task4.AnimationWindow" />
@@ -124,7 +183,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694971811379</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="adding lab41 and lab5">
+      <created>1695226574965</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695226574965</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -142,7 +208,8 @@
     <MESSAGE value="adding lab2" />
     <MESSAGE value="adding lab3" />
     <MESSAGE value="adding lab4" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding lab4" />
+    <MESSAGE value="adding lab41 and lab5" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding lab41 and lab5" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

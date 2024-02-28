@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cd9ea66-f959-4738-8b39-6351332d5a71" name="Changes" comment="adding lab1 and lab2">
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/ThreadSafeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab3/ThreadSafeMap.java" afterDir="false" />
+    <list default="true" id="9cd9ea66-f959-4738-8b39-6351332d5a71" name="Changes" comment="adding lab3">
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/MyExecutorService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/SingletonDoubleChecked.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/SingletonEager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/SingletonLazy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/SingletonTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -115,7 +118,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708527470911</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="adding lab3">
+      <created>1708585357757</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1708585357758</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -131,11 +141,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="adding lab2" />
-    <MESSAGE value="adding lab3" />
     <MESSAGE value="adding lab4" />
     <MESSAGE value="adding lab41 and lab5" />
     <MESSAGE value="adding lab1 and lab2" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding lab1 and lab2" />
+    <MESSAGE value="adding lab3" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding lab3" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

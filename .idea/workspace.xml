@@ -5,12 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cd9ea66-f959-4738-8b39-6351332d5a71" name="Changes" comment="adding lab3">
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/MyExecutorService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/SingletonDoubleChecked.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/SingletonEager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/SingletonLazy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab5/SingletonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/AbstractFactoryDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/Checkbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/GUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/MacButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/MacCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/MacFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/WinButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/WinCheckbox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/WinFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Builder/BuilderDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Builder/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Builder/CarBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Builder/CarDirector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Builder/ConcreteCarBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Factory/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Factory/Document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Factory/ExcelApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Factory/ExcelDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Factory/FactoryMethodDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Factory/WordApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Factory/WordDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Prototype/PrototypeDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Prototype/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Prototype/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Prototype/ShapeCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Prototype/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Decorator/Coffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Decorator/CoffeeDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Decorator/DecoratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Decorator/MilkDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Decorator/SimpleCoffee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Decorator/SugarDecorator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Flyweight/CoffeeFlavor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Flyweight/CoffeeFlavorFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Flyweight/FlyweightTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -125,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1708585357758</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="adding lab3">
+      <created>1709135881009</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709135881009</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

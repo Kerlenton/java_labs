@@ -4,44 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cd9ea66-f959-4738-8b39-6351332d5a71" name="Changes" comment="adding lab3">
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/AbstractFactoryDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/Button.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/Checkbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/GUIFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/MacButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/MacCheckbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/MacFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/WinButton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/WinCheckbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Abstract/WinFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Builder/BuilderDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Builder/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Builder/CarBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Builder/CarDirector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Builder/ConcreteCarBuilder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Factory/Application.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Factory/Document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Factory/ExcelApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Factory/ExcelDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Factory/FactoryMethodDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Factory/WordApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Factory/WordDocument.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Prototype/PrototypeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Prototype/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Prototype/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Prototype/ShapeCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab6/Prototype/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Decorator/Coffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Decorator/CoffeeDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Decorator/DecoratorTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Decorator/MilkDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Decorator/SimpleCoffee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Decorator/SugarDecorator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Flyweight/CoffeeFlavor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Flyweight/CoffeeFlavorFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab7/Flyweight/FlyweightTest.java" afterDir="false" />
+    <list default="true" id="9cd9ea66-f959-4738-8b39-6351332d5a71" name="Changes" comment="adding lab6 and lab7">
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/AbstractClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/ConcreteClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/ConcreteVisitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/Element.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/ElementA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/ElementB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/Visitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -163,7 +134,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709135881009</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="adding lab6 and lab7">
+      <created>1709750966930</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709750966930</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -183,7 +161,8 @@
     <MESSAGE value="adding lab41 and lab5" />
     <MESSAGE value="adding lab1 and lab2" />
     <MESSAGE value="adding lab3" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding lab3" />
+    <MESSAGE value="adding lab6 and lab7" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding lab6 and lab7" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -192,6 +171,16 @@
           <properties class="java.lang.NullPointerException" package="java.lang" />
           <option name="timeStamp" value="1" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/mirea/lab8/Visitor.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ru/mirea/lab8/ElementB.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

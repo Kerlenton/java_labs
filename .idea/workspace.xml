@@ -5,14 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9cd9ea66-f959-4738-8b39-6351332d5a71" name="Changes" comment="adding lab6 and lab7">
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/AbstractClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/ConcreteClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/ConcreteVisitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/Element.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/ElementA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/ElementB.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ru/mirea/lab8/Visitor.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -141,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1709750966930</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="adding lab6 and lab7">
+      <created>1711002200920</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1711002200920</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -175,11 +174,6 @@
           <url>file://$PROJECT_DIR$/src/ru/mirea/lab8/Visitor.java</url>
           <line>3</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ru/mirea/lab8/ElementB.java</url>
-          <line>3</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

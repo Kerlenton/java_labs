@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9cd9ea66-f959-4738-8b39-6351332d5a71" name="Changes" comment="adding lab6 and lab7">
+    <list default="true" id="9cd9ea66-f959-4738-8b39-6351332d5a71" name="Changes" comment="adding lab9">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,7 +140,14 @@
       <option name="project" value="LOCAL" />
       <updated>1711002200920</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="adding lab9">
+      <created>1711555652073</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1711555652073</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -161,7 +168,8 @@
     <MESSAGE value="adding lab1 and lab2" />
     <MESSAGE value="adding lab3" />
     <MESSAGE value="adding lab6 and lab7" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding lab6 and lab7" />
+    <MESSAGE value="adding lab9" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding lab9" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
